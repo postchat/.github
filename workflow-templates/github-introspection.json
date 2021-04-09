@@ -1,0 +1,9 @@
+{
+  "name": "Github context introspection",
+  "description": "Echos out the Github context",
+  "iconName": "example-icon",
+  "categories": [
+  ],
+  "filePatterns": [
+  ]
+}
